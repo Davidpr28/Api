@@ -48,8 +48,8 @@ Este proyecto permite hacer solicitudes a la API de Google Gemini y mostrar las 
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/JUANCITOPENA/PRUEBA3.git
-   cd PRUEBA3
+   git clone https://github.com/Davidpr28/Api?tab=readme-ov-file
+   cd Api
    ```
 
 2. **Crear archivo `.env` con tu clave API**
